@@ -1,0 +1,15 @@
+{
+  "namespace": "com.opencore.examples",
+  "type": "record",
+  "name": "Model",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "text",
+      "type": "string"
+    }
+  ]
+}
