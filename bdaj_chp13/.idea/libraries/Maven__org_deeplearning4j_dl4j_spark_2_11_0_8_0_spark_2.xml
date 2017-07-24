@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.deeplearning4j:dl4j-spark_2.11:0.8.0_spark_2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/dl4j-spark_2.11/0.8.0_spark_2/dl4j-spark_2.11-0.8.0_spark_2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/dl4j-spark_2.11/0.8.0_spark_2/dl4j-spark_2.11-0.8.0_spark_2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/dl4j-spark_2.11/0.8.0_spark_2/dl4j-spark_2.11-0.8.0_spark_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
