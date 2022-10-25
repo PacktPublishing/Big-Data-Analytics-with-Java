@@ -16,4 +16,7 @@ Before running the samples you need to follow the following steps.
 
 6. Note : The charts used in data exploration in all the chapters are part of the code of chp 3 project only in this repository.
 
-7. Within the java package of each chapter we have its respective "readme.md" file
+7. Within the java package of each chapter we have its respective "readme.md" file### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787288980">https://packt.link/free-ebook/9781787288980 </a> </p>
